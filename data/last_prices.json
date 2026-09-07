@@ -89,7 +89,7 @@
     }
   },
   "https://www.amazon.de/dp/B0DPLTGMN3": {
-    "price": 326.77,
+    "price": 251.4,
     "currency": "EUR",
     "name": "ASICS Damen Metaspeed Sky TokyoRunning Shoes",
     "in_stock": true
@@ -603,7 +603,7 @@
       "Sportvision|IB1873-102": {
         "price": 14399.0,
         "currency": "RSD",
-        "store_url": "https://www.sportvision.rs/patike/70079545-nike-pegasus-42",
+        "store_url": "https://www.sportvision.rs/patike/70079545-nike-air-zoom-pegasus-42",
         "in_stock": true
       },
       "Run'n'more|IB1873-008": {
@@ -760,7 +760,7 @@
     "offers": {}
   },
   "https://www.amazon.de/dp/B0CN32STFS": {
-    "price": 363.02,
+    "price": 363.03,
     "currency": "EUR",
     "name": "Hoka Herren Clifton 9Sneaker",
     "in_stock": true
@@ -821,7 +821,7 @@
     "price": 156.06,
     "currency": "EUR",
     "name": "Hoka Herren M Mach X 3Sneaker",
-    "in_stock": true
+    "in_stock": false
   },
   "https://trebapatike.rs/sr/hoka-cielo-x1-30": {
     "name": "HOKA CIELO X1 3.0",
