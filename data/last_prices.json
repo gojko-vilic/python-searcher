@@ -394,7 +394,7 @@
         "in_stock": true
       },
       "Buzz|IR7550-030": {
-        "price": 18999.0,
+        "price": 15199.0,
         "currency": "RSD",
         "store_url": "https://www.buzzsneakers.rs/patike/363265-nike-patike-nike-vomero-plus-cn",
         "in_stock": true
@@ -702,7 +702,7 @@
     "price": 88.15,
     "currency": "EUR",
     "name": "Nike Herren Air Zoom Pegasus 42Straßen-Laufschuh",
-    "in_stock": true
+    "in_stock": false
   },
   "https://trebapatike.rs/sr/nike-zoom-fly-6": {
     "name": "Nike ZOOM FLY 6",
@@ -808,7 +808,7 @@
         "in_stock": true
       },
       "Sportvision|1162030-PTYG": {
-        "price": 14999.0,
+        "price": 11999.0,
         "currency": "RSD",
         "store_url": "https://www.sportvision.rs/patike/70069667-hoka-clifton-10",
         "in_stock": true
